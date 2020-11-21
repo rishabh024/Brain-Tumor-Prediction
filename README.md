@@ -1,2 +1,2 @@
-# Brain-Tumor-Prediction
-Brain Tumor Prediction Project
+# Brain-Tumor-Prediction Project
+
