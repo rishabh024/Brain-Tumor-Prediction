@@ -52,7 +52,7 @@ We have used Convolution Neural Network to build the deep learning model for ima
 
   <br>
   
-  > + It is the complete CNN architecture with all its layers-
+  > + It is the complete CNN architecture along with its layers-
   <p align="center"><img src="/assets/complete CNN architecture.PNG" height="390" width="660"></p>
 
 <br> 
